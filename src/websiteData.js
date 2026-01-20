@@ -1,11 +1,11 @@
-// 网站数据 - 通过管理后台更新于 2026/1/20 13:24:29
+// 网站数据 - 通过管理后台更新于 2026/1/20 19:40:00
 
 // 站点配置
 export const siteConfig = {
   "siteName": "花儿与少年",
   "siteTitle": "花儿与少年 - 导航",
   "siteLogo": "/assets/logo.png",
-  "siteDescription": "二进制导航页面，精选优质站点",
+  "siteDescription": "这是花儿与少年的自用网站",
   "icpRecord": "",
   "publicSecurityRecord": "",
   "publicSecurityRecordUrl": ""
