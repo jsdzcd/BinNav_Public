@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/1/20 20:07:16
+// 网站数据 - 通过管理后台更新于 2026/1/20 20:13:42
 
 // 站点配置
 export const siteConfig = {
@@ -79,18 +79,6 @@ export const websiteData = [
       "视频"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=bilibili.com"
-  },
-  {
-    "id": 45,
-    "name": "知乎专栏",
-    "description": "二进制-知乎",
-    "url": "https://www.zhihu.com/people/mrblack-41-9",
-    "category": "author",
-    "tags": [
-      "知乎专栏",
-      "技术文章"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.zhihu.com"
   },
   {
     "id": 1751617129171,
