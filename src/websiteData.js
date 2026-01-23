@@ -1,11 +1,11 @@
-// 网站数据 - 通过管理后台更新于 2026/1/20 20:13:42
+// 网站数据 - 通过管理后台更新于 2026/1/23 08:32:08
 
 // 站点配置
 export const siteConfig = {
   "siteName": "花儿与少年",
   "siteTitle": "花儿与少年 - 导航",
   "siteLogo": "/assets/logo.png",
-  "siteDescription": "这是花儿与少年的自用网站",
+  "siteDescription": "二进制导航页面，精选优质站点",
   "icpRecord": "",
   "publicSecurityRecord": "",
   "publicSecurityRecordUrl": ""
@@ -257,6 +257,15 @@ export const websiteData = [
       "CDN"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=edgeone.ai"
+  },
+  {
+    "id": 1769128293552,
+    "name": "ikool",
+    "description": "",
+    "url": "http://192.168.0.1",
+    "category": "category_1768910823088",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=192.168.0.1"
   }
 ];
 
@@ -360,5 +369,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-01-20"
+  lastUpdated: "2026-01-23"
 };
